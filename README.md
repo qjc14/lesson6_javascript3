@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 14, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Quinn and Ciambella)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Created a website visual of nice cars.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://qjc14.github.io/lesson6_javascript3/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to create slideshows.)
+2. (How vari and photorder works.)
+3. (Do stuff on time becuase its not worht doing it late and its dumb to be lazy.)
